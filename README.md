@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://ughvop.github.io/product-preview-card-component-main/)
 
 
 ## My process
