@@ -36,7 +36,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Acknowledgments
 
-margin-top: 25vh; was useful fo centering the div horizontally for desktop screen without using flix or grid fo it
+margin-top: 20vh; was useful fo centering the div horizontally for desktop screen without using flix or grid fo it
 
 
 
