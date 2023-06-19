@@ -15,7 +15,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/product-preview-card-component-vanilla-css-just-a-hint-of-flex-zJMWV_wr6E)
 - Live Site URL: [here](https://ughvop.github.io/product-preview-card-component-main/)
 
 
